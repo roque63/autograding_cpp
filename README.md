@@ -10,7 +10,7 @@ In this exercise, learners/lecturers will write simple C++ programs that accept 
 
 1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 30 marks if the test passes.
 
 ## Exercise 2
 
@@ -20,7 +20,7 @@ In this exercise, learners/lecturers will write simple C++ programs that accept 
 
 1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 30 marks if the test passes.
 
 ## Exercise 3
 
@@ -30,4 +30,4 @@ In this exercise, learners/lecturers will write simple C++ programs that accept 
 
 1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 40 marks if the test passes.
