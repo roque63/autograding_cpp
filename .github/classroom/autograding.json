@@ -8,7 +8,7 @@
       "output": "Hello World!",
       "comparison": "included",
       "timeout": 2,
-      "points": 10
+      "points": 30
     },
     {
       "name": "Test 2 - Your name",
@@ -18,7 +18,7 @@
       "output": "Your name is abcdef",
       "comparison": "included",
       "timeout": 2,
-      "points": 10
+      "points": 30
     },
     {
       "name": "Test 3 - Sum",
@@ -27,7 +27,7 @@
       "input": "2\n5",
       "output": "7",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 40,
       "points": 10
     }
   ]
