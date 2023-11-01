@@ -18,7 +18,7 @@
       "output": "Your name is abcdef",
       "comparison": "included",
       "timeout": 2,
-      "points": 30
+      "points": 40
     },
     {
       "name": "Test 3 - Sum",
